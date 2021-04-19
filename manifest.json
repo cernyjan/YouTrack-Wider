@@ -2,7 +2,7 @@
   "description": "Make the YouTrack wider",
   "manifest_version": 2,
   "name": "YouTrack Wider",
-  "version": "1.6",
+  "version": "2.0",
   "homepage_url": "https://github.com/cernyjan/YouTrack-Wider",
   "icons": {
     "48": "icons/ruler-48.png"
