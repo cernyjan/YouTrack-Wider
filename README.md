@@ -10,6 +10,9 @@ After add-on:
 ![after](After-Lite.png)
 
 ## Release Notes
+### v2.1
+* fixed issue with Firefox
+
 ### v2.0
 * stopped support older version than 2021.1
 * reduced package size 
