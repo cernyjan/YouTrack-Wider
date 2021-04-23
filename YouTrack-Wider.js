@@ -1,4 +1,4 @@
-window.addEventListener("load", function() {
+$( document ).ready(function() {
     console.log("YouTrack Wider is Online");
 	
 	var mode = '';
