@@ -10,11 +10,17 @@ After add-on:
 ![after](After-Lite.png)
 
 ## Release Notes
+### v2.2
+* fixed bugs: 
+  * Opened issue from YT is not wider in v2
+  * Listing of issues is not wider in v2
+  * New issue is not wider in v2
+
 ### v2.1
 * fixed issue with Firefox
 
 ### v2.0
-* stopped support older version than 2021.1
+* stopped support older version of YT than 2021.1 (before redesign and added YT Lite view)
 * reduced package size 
 
 ### v1.6
@@ -39,5 +45,5 @@ After add-on:
 * click the “Load unpacked extension” button
 * Navigate to the extension’s directory and open it
 
-## The latest (unsupported) v1.0
+## The last build of add-on in v1 (unsupported)
 [YouTrack Wider v1.6](https://github.com/cernyjan/YouTrack-Wider/blob/master/youtrack_wider-1.6-an+fx.xpi)
